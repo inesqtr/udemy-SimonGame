@@ -4,8 +4,12 @@
 
 Udemy/App Brewery Web Development Course
 
+#### *Deploy:*
 
-#### *Objective:*
+https://compassionate-wright-798bcb.netlify.com/
+
+
+#### *Goal:*
 
 Build a Simon Game with jQuery
 
